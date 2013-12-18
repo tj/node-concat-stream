@@ -1,0 +1,13 @@
+{
+  "name": "concat-stream",
+  "version": "0.0.1",
+  "repository": "visionmedia/node-concat-stream",
+  "description": "",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT"
+}
